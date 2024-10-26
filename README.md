@@ -3,6 +3,8 @@
 
 I'm currently studying Python fundamentals, focusing on essential programming concepts and building a solid foundation in coding. The following list includes exercises I've completed as part of the course, covering various aspects of Python, such as syntax, data structures, control flow, and functions. These exercises have helped reinforce my understanding and improve my problem-solving skills in Python.
 
+[Here](https://github.com/Viktoria-Todorova/Fundamentals_Exercises/tree/Fundamentals/Mid_Exam_prep) are the exams i solved for my mid exam preparation and [This](https://github.com/Viktoria-Todorova/Fundamentals_Exercises/tree/Fundamentals/MId_exam) is the exam.
+
 ## List of excersises
 
 💻 [Basic Syntax](https://github.com/Viktoria-Todorova/Fundamentals_Exercises/tree/Fundamentals/1_Basic_Syntax)
