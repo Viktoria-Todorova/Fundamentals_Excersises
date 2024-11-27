@@ -19,4 +19,7 @@ I'm currently studying Python fundamentals, focusing on essential programming co
 
 💻 [Objects and Classes](https://github.com/Viktoria-Todorova/Fundamentals_Exercises/tree/Fundamentals/6_Objects_and_classes)
 
+💻 [Dictionaries](https://github.com/Viktoria-Todorova/Fundamentals_Exercises/tree/Fundamentals/7_Dictionaries)
+
+
 
