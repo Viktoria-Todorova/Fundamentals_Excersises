@@ -21,5 +21,7 @@ I'm currently studying Python fundamentals, focusing on essential programming co
 
 💻 [Dictionaries](https://github.com/Viktoria-Todorova/Fundamentals_Exercises/tree/Fundamentals/7_Dictionaries)
 
+💻 [Regular Expresions](https://github.com/Viktoria-Todorova/Fundamentals_Exercises/tree/Fundamentals/9_regular_expresions)
+
 
 
