@@ -5,7 +5,7 @@ I'm currently studying Python fundamentals, focusing on essential programming co
 
 [Here](https://github.com/Viktoria-Todorova/Fundamentals_Exercises/tree/Fundamentals/Mid_Exam_prep) are the exams i solved for my mid exam preparation and [This](https://github.com/Viktoria-Todorova/Fundamentals_Exercises/tree/Fundamentals/MId_exam) is the exam.
 
-[Here](https://github.com/Viktoria-Todorova/Fundamentals_Exercises/tree/Fundamentals/Final_Exam_Prep) are the prep exams i solved for my final one.
+[Here](https://github.com/Viktoria-Todorova/Fundamentals_Exercises/tree/Fundamentals/Final_Exam_Prep) are the prep exams i solved for my final one. and [The Final Exam](https://github.com/Viktoria-Todorova/Fundamentals_Exercises/tree/Fundamentals/Final_exam)
 
 ## List of excersises
 
